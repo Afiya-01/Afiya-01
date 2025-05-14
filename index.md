@@ -5,9 +5,9 @@ layout: default
 
 <style>
   body {
-    background: linear-gradient(to right, #e0f7fa, #ffffff);
+    background-color: #1e1e1e;
     font-family: 'Segoe UI', sans-serif;
-    color: #333;
+    color: #f0f0f0;
     padding: 2em;
   }
   .profile-img {
@@ -18,13 +18,15 @@ layout: default
     border: 4px solid #00acc1;
   }
   h1, h2 {
-    color: #007c91;
+    color: #00acc1;
+  }
+  a {
+    color: #80d8ff;
   }
 </style>
 
 <center>
-  <!-- Replace 'your-photo.jpg' with actual image file later -->
-  <img src="your-photo.jpg" alt="Afiya Ayman" class="profile-img" />
+  <img src="Profile picture .jpg" alt="Afiya Ayman" class="profile-img" />
 </center>
 
 # Welcome to my portfolio!
