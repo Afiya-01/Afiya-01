@@ -26,7 +26,7 @@ layout: default
 </style>
 
 <center>
-  <img src="Profile picture .jpg" alt="Afiya Ayman" class="profile-img" />
+  <img src="profile.jpg" alt="Afiya Ayman" class="profile-img" />
 </center>
 
 # Welcome to my portfolio!
